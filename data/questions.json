@@ -190,6 +190,15 @@
         "answerType": "STRING",
         "alternativeAnswers": [
         ]
+      },
+      {
+        "id": 17,
+        "points": 200,
+        "question": "qui est le plus beau Bot?",
+        "answer": "Guillaume DevOps Bot",
+        "answerType": "STRING",
+        "alternativeAnswers": [
+        ]
       }
     ]
   }
