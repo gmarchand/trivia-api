@@ -190,15 +190,6 @@
         "answerType": "STRING",
         "alternativeAnswers": [
         ]
-      },
-      {
-        "id": 17,
-        "points": 200,
-        "question": "qui est le plus beau Bot?",
-        "answer": "le devops Bot",
-        "answerType": "STRING",
-        "alternativeAnswers": [
-        ]
       }
     ]
   }
