@@ -160,7 +160,7 @@
         "id": 14,
         "points": 200,
         "question": "Which AWS Engineer both appeared in the 2018 keynote, and also wrote this demo?",
-        "answer": "Clare Liguori (hi!)",
+        "answer": "Clare Liguori (hello!)",
         "answerType": "STRING",
         "alternativeAnswers": [
           "Clare Liguori",
